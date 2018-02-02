@@ -1,2 +1,2 @@
 # evoDataTable
-Convenient management of DataTable documents
+Удобное управение документами Evolution CMS
